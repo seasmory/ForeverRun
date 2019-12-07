@@ -1,5 +1,5 @@
 # ForeverRun
-Game ini merupakan (endless games) yang bertemakan intertainment untuk orang-orang yang bosan dengan grafik game dinosaur di chrome. 
+Game ini merupakan *endless* game dengan genre Arcade untuk orang-orang yang bosan dengan grafik game dinosaurus di *browser* Google Chrome. 
 
 ## Development Team
 | Game Designer | Game Artist | Game Programmer |
@@ -7,7 +7,7 @@ Game ini merupakan (endless games) yang bertemakan intertainment untuk orang-ora
 | Fajar Yuda Apriliano (G64170093) | Nabil Ahmad (G64170057) | Muhammad Dani Alfaris (G64170104) |
 
 ## Story Line
-ForeverRun merupakan game endless yang memiliki storyline dimana pemain terus berlari untuk mendapatkan highscore tertinggi. Pemain harus mampu melewati bomb yang ada dengan cara melompat atau meluncur di tanah.
+ForeverRun merupakan game endless yang memiliki storyline di mana pemain terus berlari untuk mendapatkan skor tertinggi. Pemain harus mampu melewati bomb yang ada dengan cara melompat atau meluncur di tanah.
 
 ## Gameplay
 Game ini bertujuan untuk menghindari seluruh bomb yang ada. Setiap pemain harus menghadapi bomb yang memiliki ketinggian yang berbeda. Jika berhasil melewati bomb maka score akan bertambah, jika tidak maka score akan kembali ke 0 dan mengulang dari awal.
